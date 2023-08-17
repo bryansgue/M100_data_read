@@ -1,9 +1,9 @@
 %% Koopman Operator Angular Dynamics
 clc, clear all, close all;
 
-load("T_ref_1.mat");
-load("u_1.mat");
-load("vz_d_1.mat");
+load("T_ref_3.mat");
+load("u_3.mat");
+load("vz_d_3.mat");
 
 
 
